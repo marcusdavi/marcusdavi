@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring Boot (JAVA) e Angular.
+- 🔭 I’m currently working on Spring Boot (JAVA) and Angular.
 - 🌱 I’m currently learning Angular.
 
 ---
