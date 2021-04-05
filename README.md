@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring Boot (JAVA) and Angular.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on Spring Boot (JAVA).
+- 🌱 I’m currently learning **React** and **Spring Boot** (JAVA).
 
 ---
 
